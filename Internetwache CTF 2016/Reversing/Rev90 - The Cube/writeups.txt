@@ -1,0 +1,14 @@
+R 3 C 3
+
+RD33C
+RD3C3
+RDC33
+
+3DC3R
+3D3CR
+3DR3C
+3DRC3 <- flag
+3DCR3
+
+
+IW{?D???}

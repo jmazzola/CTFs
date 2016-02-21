@@ -1,1 +1,1 @@
-# CTF Writeups from me [justchocolate]
+# CTF Writeups from me [justchocolate/chocolate]
