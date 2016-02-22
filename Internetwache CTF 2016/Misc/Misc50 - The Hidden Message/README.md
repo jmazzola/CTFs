@@ -1,9 +1,10 @@
 # misc50 - 'The hidden message'
-    My friend really can't remember passwords. 
-    So he uses some kind of obfuscation. 
-    Can you restore the plaintext?
 
-> Attachment: Download [misc50.zip](./misc50.zip)
+>   My friend really can't remember passwords. 
+>   So he uses some kind of obfuscation. 
+>   Can you restore the plaintext?
+
+>   Attachment: Download [misc50.zip](./misc50.zip)
 
 After opening up misc50.zip we're greeted with these series of 'obfuscated' numbers.
 

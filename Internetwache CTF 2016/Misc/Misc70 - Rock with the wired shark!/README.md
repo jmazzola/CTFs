@@ -1,8 +1,9 @@
 # misc70 - 'Rock with the wired shark'
-    Sniffing traffic is fun. 
-    I saw a wired shark. Isn't that strange?
 
-> Attachment: [misc70.zip](./misc70.zip)
+>   Sniffing traffic is fun. 
+>   I saw a wired shark. Isn't that strange?
+
+>   Attachment: [misc70.zip](./misc70.zip)
 
 After opening up misc70.zip we're greeted with [dump.pcapng](./dump.pcapng), a dump of sniffed traffic to be opened in Wireshark (who would've guessed from the challenge name~)
 

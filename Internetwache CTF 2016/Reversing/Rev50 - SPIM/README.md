@@ -1,7 +1,9 @@
 # rev50 - 'SPIM'
-    My friend keeps telling me, that real hackers speak assembly fluently. Are you a real hacker? Decode this string: "IVyN5U3X)ZUMYCs"
 
-> Attachment: [rev50.zip](./rev50.zip)
+>   My friend keeps telling me, that real hackers speak assembly fluently.
+>   Are you a real hacker? Decode this string: "IVyN5U3X)ZUMYCs"
+
+>   Attachment: [rev50.zip](./rev50.zip)
 
 Once we open up the .zip, we're greeted with a [README.txt](./README.txt) that looks like MIPS assembly. (Who would have guessed without that clever challenge name~)
 
