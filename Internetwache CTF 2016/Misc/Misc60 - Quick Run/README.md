@@ -5,7 +5,7 @@
 
 >   Attachment: Download [misc60.zip](./misc60.zip)
 
-After opening up misc60.zip inside [README.txt](./README.txt) we're greeted with huge strings of repetitive letters. Without spamming the page, here's just one 'block'.
+After opening up misc60.zip inside **README.txt** we're greeted with huge strings of repetitive letters. Without spamming the page, here's just one 'block'.
 
 ```
 4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI4paI
@@ -82,7 +82,7 @@ Right off the bat, I notice the equals signs. Is this Base64 [again?](http://www
 
 It sure is! And o-m-g it's a QR code made out of ASCII characters! Cute :3
 
-Scrolling through the entire blocks of code. You'll notice that every block is a Base64 string, so if you paste all of the text in the [README.txt](./README.txt) into that decoder, you'll get A LOT of QR Codes in text.
+Scrolling through the entire blocks of code. You'll notice that every block is a Base64 string, so if you paste all of the text in the **README.txt** into that decoder, you'll get A LOT of QR Codes in text.
 
 Now, I'm sure there was a better way of doing this but this was me thinking on my feet, without a QR Code Reader/Scanner.
 

@@ -5,7 +5,7 @@
 
 >   Attachment: [misc70.zip](./misc70.zip)
 
-After opening up misc70.zip we're greeted with [dump.pcapng](./dump.pcapng), a dump of sniffed traffic to be opened in Wireshark (who would've guessed from the challenge name~)
+After opening up misc70.zip we're greeted with **dump.pcapng**, a dump of sniffed traffic to be opened in Wireshark (who would've guessed from the challenge name~)
 
 ![Image of Wireshark](http://i.imgur.com/qsAJHxf.png)
 

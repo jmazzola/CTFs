@@ -4,7 +4,7 @@
 
 >   Attachment: [misc80.zip](./misc80.zip)
 
-Once we open up the .zip, we're greeted with yet another [pcapng file](./flag.pcapng) . Let's open that up.
+Once we open up the .zip, we're greeted with yet another **.pcapng file** . Let's open that up.
 
 ![pcap](http://i.imgur.com/gbzY52b.png)
 

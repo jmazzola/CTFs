@@ -5,7 +5,7 @@
 
 >   Attachment: [rev50.zip](./rev50.zip)
 
-Once we open up the .zip, we're greeted with a [README.txt](./README.txt) that looks like MIPS assembly. (Who would have guessed without that clever challenge name~)
+Once we open up the .zip, we're greeted with a **README.txt** that looks like MIPS assembly. (Who would have guessed without that clever challenge name~)
 
 I personally hate MIPS and everything it stands for. However, it's fairly easy to read and understand what this program is doing.
 
