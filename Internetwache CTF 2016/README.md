@@ -1,4 +1,4 @@
-# Interwache CTF 2016 Writeups by [justchocolate/chocolate]
+# Internetwache CTF 2016 Writeups by [justchocolate/chocolate]
 
 # List of finished writeups
 ---
