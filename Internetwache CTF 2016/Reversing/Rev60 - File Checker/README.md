@@ -39,7 +39,7 @@ Oh wow. It's a table! It's the table[i] + character and mod'ing with 0x1337 and 
 
 So let's make a little C# script to set this up.
 
-```csharp
+```c
 void func(int i, int* v3)
 {
     int array[15] =
